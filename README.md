@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riddhi Vora</h1>
+
+
 <h3 align="center">Detail-oriented Data Analyst with a knack for turning raw data into compelling stories. Experienced in using data to enhance business strategies and operational efficiency.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
